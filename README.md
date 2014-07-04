@@ -26,9 +26,9 @@
 ### CDN
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://open.bootcss.com/)
-* [cdnjs.zh-cn](http://zh-cn.cdnjs.com/)
-* [upai](http://jscdn.upai.com/)
+* [cdnjs.cn](http://www.cdnjs.cn/)
 * [cdnjs](http://cdnjs.com/)
+* [upai](http://jscdn.upai.com/)
 * [Baidu cdn](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs)
 * [360 cdn](http://libs.useso.com/)
 * [jquery cdn](http://code.jquery.com/)
