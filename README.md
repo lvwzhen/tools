@@ -29,7 +29,7 @@
 * [cdnjs.cn](http://www.cdnjs.cn/)
 * [cdnjs](http://cdnjs.com/)
 * [upai](http://jscdn.upai.com/)
-* [Baidu cdn](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs)
+* [Baidu cdn](http://cdn.code.baidu.com/)
 * [360 cdn](http://libs.useso.com/)
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
