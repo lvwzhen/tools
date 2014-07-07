@@ -14,6 +14,7 @@
 * [temp.im](http://temp.im/)
 * [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
+* [placekitten](http://placekitten.com/)
 
 ### Favicon
 
@@ -24,6 +25,7 @@
 * [bitbug](http://www.bitbug.net/)
 
 ### CDN
+
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://open.bootcss.com/)
 * [cdnjs.cn](http://www.cdnjs.cn/)
@@ -66,7 +68,6 @@
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
 
-
 ### Color
 
 * [nipponcolors](http://nipponcolors.com/)
@@ -88,6 +89,11 @@
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark)
 
+### API Debugging
+
+* [Hurl.it](http://hurl.it)
+* [requestb.in](http://requestb.in/) 
+
 ### API Doc
 
 * [Jquery API](http://jquery.bootcss.com/)
@@ -102,11 +108,5 @@
 * [GitLab](https://about.gitlab.com/)
 * [GitCafe](https://gitcafe.com/)
 * [Git@OSC](http://git.oschina.net/)
-
-
-
-
-
-
 
 
