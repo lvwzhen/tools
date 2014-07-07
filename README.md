@@ -67,6 +67,7 @@
 * [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
+* [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/)
 
 ### Color
 
@@ -108,5 +109,33 @@
 * [GitLab](https://about.gitlab.com/)
 * [GitCafe](https://gitcafe.com/)
 * [Git@OSC](http://git.oschina.net/)
+
+### Uptime
+
+* [Pingdom](https://www.pingdom.com/)
+* [UptimeRobot](http://uptimerobot.com/) - 50 Monitors for free
+* [Monitive](http://monitive.com/)
+
+### DNS Checker
+
+* [IntoDNS](http://intodns.com)
+* [Pingdom DNS Check](http://dnscheck.pingdom.com/)
+
+### Web Technology
+
+* [BuiltWith](http://builtwith.com/)
+* [MoonSearch](http://moonsearch.com/)
+
+
+### SEO Tools
+
+* [OpenSiteExplorer](http://www.opensiteexplorer.org/)
+
+
+### Keyword Research
+
+* [Keyword Tool](http://keywordtool.io/)
+
+
 
 
