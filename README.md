@@ -88,6 +88,7 @@
 * [webfonts](http://webfonts.fonts.com/)
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark)
+* [FontSquirrel](http://www.fontsquirrel.com/)
 
 ### API Debugging
 
