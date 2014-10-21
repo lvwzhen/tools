@@ -53,6 +53,7 @@
 * [TinyPNG](https://tinypng.com)
 * [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
+* [Compressor.io](https://compressor.io/)
 
 ### JavaScript
 
@@ -77,6 +78,7 @@
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
+* [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 
 ### Font
 
