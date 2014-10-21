@@ -35,6 +35,7 @@
 * [360 cdn](http://libs.useso.com/)
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
+* [jsDelivr](http://www.jsdelivr.com/)
 
 ### CSS
 
@@ -60,6 +61,7 @@
 * [jsbeautifier](http://jsbeautifier.org/)
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Pagespeed
 
@@ -67,6 +69,7 @@
 * [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
+* [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 
 ### Color
 
@@ -77,6 +80,9 @@
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
+* [randomColor](http://llllll.li/randomColor/)
+* [Please JS](http://www.checkman.io/please/)
+* [colourco.de](http://colourco.de)
 
 ### Font
 
@@ -89,6 +95,7 @@
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
+* [Fontface Ninja](http://fontface.ninja/)
 
 ### API Debugging
 
