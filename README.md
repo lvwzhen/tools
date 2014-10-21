@@ -54,6 +54,7 @@
 * [TinyPNG](https://tinypng.com)
 * [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
+* [Compressor.io](https://compressor.io/)
 
 ### JavaScript
 
@@ -83,6 +84,7 @@
 * [randomColor](http://llllll.li/randomColor/)
 * [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
+* [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 
 ### Font
 
