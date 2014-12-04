@@ -41,8 +41,9 @@
 * [csszengarden](http://www.csszengarden.com/)
 * [css3Preview](http://www.css88.com/tool/css3Preview/)
 * [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-* [prefixmycss](http://prefixmycss.com/)
+* [pleeease](http://pleeease.io/play/)
 * [cssBeutify](http://tool.lu/css/)
+* [css3-tool](http://isux.tencent.com/css3/tools.html)
 
 ### Image compression
 
@@ -102,11 +103,3 @@
 * [GitLab](https://about.gitlab.com/)
 * [GitCafe](https://gitcafe.com/)
 * [Git@OSC](http://git.oschina.net/)
-
-
-
-
-
-
-
-
