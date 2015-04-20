@@ -7,6 +7,7 @@
 * [Responsinator](http://www.responsinator.com/)
 * [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Media Queri](http://mediaqueri.es/)
+* [Screensiz](http://screensiz.es/phone)
 
 ### Placeholder
 
@@ -46,6 +47,8 @@
 * [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [prefixmycss](http://prefixmycss.com/)
 * [cssBeutify](http://tool.lu/css/)
+* [css3 animation generator](http://isux.tencent.com/css3/tools.html)
+* [css3 maker](http://www.css3maker.com/index.html)
 
 ### Image compression
 
@@ -111,6 +114,7 @@
 * [OverAPI](http://overapi.com/)
 * [devdocs](http://devdocs.io/)
 * [oschina apidoc](http://tool.oschina.net/apidocs)
+* [Easing functions](http://easings.net/en)
 
 ### Git Host
 
