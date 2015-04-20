@@ -55,6 +55,7 @@
 * [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 * [Compressor.io](https://compressor.io/)
+* [Shrinkray](https://shrinkray.io)
 
 ### JavaScript
 
