@@ -19,11 +19,12 @@
 
 ### Favicon
 
-* [favicon.cc](http://www.favicon.cc/)
 * [favicon-generator](http://favicon-generator.org/)
+* [favicon.cc](http://www.favicon.cc/)
 * [xiconeditor](http://www.xiconeditor.com/)
 * [tool.lu favicon](http://tool.lu/favicon/)
 * [bitbug](http://www.bitbug.net/)
+* [iconogen](http://iconogen.com/)
 
 ### CDN
 
@@ -49,6 +50,8 @@
 * [cssBeutify](http://tool.lu/css/)
 * [css3 animation generator](http://isux.tencent.com/css3/tools.html)
 * [css3 maker](http://www.css3maker.com/index.html)
+* [css spritegen](http://spritegen.website-performance.org/)
+* [csssprites](http://csssprites.com/)
 
 ### Image compression
 
