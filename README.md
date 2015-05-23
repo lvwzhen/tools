@@ -73,7 +73,7 @@
 
 ### Pagespeed
 
-* [PageSpeed](https://chrome.google.com/webstore/detail/gplegfbjlmmehdoakndmohflojccocli)
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 * [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
