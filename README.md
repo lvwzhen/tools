@@ -7,6 +7,7 @@
 * [Responsinator](http://www.responsinator.com/)
 * [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Media Queri](http://mediaqueri.es/)
+* [Screensiz](http://screensiz.es/phone)
 
 ### Placeholder
 
@@ -14,16 +15,19 @@
 * [temp.im](http://temp.im/)
 * [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
+* [placekitten](http://placekitten.com/)
 
 ### Favicon
 
-* [favicon.cc](http://www.favicon.cc/)
 * [favicon-generator](http://favicon-generator.org/)
+* [favicon.cc](http://www.favicon.cc/)
 * [xiconeditor](http://www.xiconeditor.com/)
 * [tool.lu favicon](http://tool.lu/favicon/)
 * [bitbug](http://www.bitbug.net/)
+* [iconogen](http://iconogen.com/)
 
 ### CDN
+
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://open.bootcss.com/)
 * [cdnjs.cn](http://www.cdnjs.cn/)
@@ -33,6 +37,7 @@
 * [360 cdn](http://libs.useso.com/)
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
+* [jsDelivr](http://www.jsdelivr.com/)
 
 ### CSS
 
@@ -44,6 +49,12 @@
 * [pleeease](http://pleeease.io/play/)
 * [cssBeutify](http://tool.lu/css/)
 * [css3-tool](http://isux.tencent.com/css3/tools.html)
+* [css3 animation generator](http://isux.tencent.com/css3/tools.html)
+* [css3 maker](http://www.css3maker.com/index.html)
+* [css spritegen](http://spritegen.website-performance.org/)
+* [csssprites](http://csssprites.com/)
+* [sassme](http://sassme.arc90.com/)
+
 
 ### Image compression
 
@@ -52,6 +63,8 @@
 * [TinyPNG](https://tinypng.com)
 * [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
+* [Compressor.io](https://compressor.io/)
+* [Shrinkray](https://shrinkray.io)
 
 ### JavaScript
 
@@ -59,14 +72,15 @@
 * [jsbeautifier](http://jsbeautifier.org/)
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Pagespeed
 
-* [PageSpeed](https://chrome.google.com/webstore/detail/gplegfbjlmmehdoakndmohflojccocli)
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 * [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
-
+* [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 
 ### Color
 
@@ -77,6 +91,10 @@
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
+* [randomColor](http://llllll.li/randomColor/)
+* [Please JS](http://www.checkman.io/please/)
+* [colourco.de](http://colourco.de)
+* [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 
 ### Font
 
@@ -88,6 +106,13 @@
 * [webfonts](http://webfonts.fonts.com/)
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark)
+* [FontSquirrel](http://www.fontsquirrel.com/)
+* [Fontface Ninja](http://fontface.ninja/)
+
+### API Debugging
+
+* [Hurl.it](http://hurl.it)
+* [requestb.in](http://requestb.in/) 
 
 ### API Doc
 
@@ -95,6 +120,7 @@
 * [OverAPI](http://overapi.com/)
 * [devdocs](http://devdocs.io/)
 * [oschina apidoc](http://tool.oschina.net/apidocs)
+* [Easing functions](http://easings.net/en)
 
 ### Git Host
 
