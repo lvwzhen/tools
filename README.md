@@ -19,7 +19,7 @@
 
 ### Favicon
 
-* [favicon-generator](http://favicon-generator.org/)
+* [favicon-generator](http://www.favicon-generator.org/)
 * [favicon.cc](http://www.favicon.cc/)
 * [xiconeditor](http://www.xiconeditor.com/)
 * [tool.lu favicon](http://tool.lu/favicon/)
@@ -29,9 +29,9 @@
 ### CDN
 
 * [staticfile](http://www.staticfile.org/)
-* [bootcss cdn](http://open.bootcss.com/)
+* [bootcss cdn](http://www.bootcdn.cn/)
 * [cdnjs.cn](http://www.cdnjs.cn/)
-* [cdnjs](http://cdnjs.com/)
+* [cdnjs](https://cdnjs.com/)
 * [upai](http://jscdn.upai.com/)
 * [Baidu cdn](http://cdn.code.baidu.com/)
 * [360 cdn](http://libs.useso.com/)
@@ -59,7 +59,7 @@
 ### Image compression
 
 * [punypng](http://www.punypng.com/)
-* [webresizer](http://www.webresizer.com/resizer/)
+* [webresizer](http://webresizer.com/resizer/)
 * [TinyPNG](https://tinypng.com)
 * [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
@@ -91,7 +91,7 @@
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
-* [randomColor](http://llllll.li/randomColor/)
+* [randomColor](https://randomcolor.llllll.li/)
 * [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
@@ -103,7 +103,7 @@
 * [youziku](http://www.youziku.com/)
 * [qiuziti](http://www.qiuziti.com/)
 * [fonts2u](http://www.fonts2u.com/index.html)
-* [webfonts](http://webfonts.fonts.com/)
+* [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
@@ -111,12 +111,12 @@
 
 ### API Debugging
 
-* [Hurl.it](http://hurl.it)
+* [Hurl.it](https://www.hurl.it/)
 * [requestb.in](http://requestb.in/) 
 
 ### API Doc
 
-* [Jquery API](http://jquery.bootcss.com/)
+* [Jquery API](http://www.jquery123.com/)
 * [OverAPI](http://overapi.com/)
 * [devdocs](http://devdocs.io/)
 * [oschina apidoc](http://tool.oschina.net/apidocs)
