@@ -54,6 +54,7 @@
 * [css spritegen](http://spritegen.website-performance.org/)
 * [csssprites](http://csssprites.com/)
 * [sassme](http://sassme.arc90.com/)
+* [Css / Less / Sass / Scss](http://www.atool.org/css_less.php)
 
 
 ### Image compression
@@ -73,6 +74,12 @@
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [Online YUI comperssor](http://www.atool.org/yui.php)
+
+### JSON & XML
+
+* [JSON format](http://www.atool.org/jsonformat.php)
+* [JSON to XML](http://www.atool.org/xml_json.php)
 
 ### Pagespeed
 
@@ -95,6 +102,7 @@
 * [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
+* [Online Color Picker](http://www.atool.org/colorpicker.php)
 
 ### Font
 
