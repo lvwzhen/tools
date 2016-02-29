@@ -38,6 +38,7 @@
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
+* [cdnex](https://github.com/jsonmaur/cdnex)
 
 ### CSS
 
