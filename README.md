@@ -54,6 +54,7 @@
 * [css spritegen](http://spritegen.website-performance.org/)
 * [csssprites](http://csssprites.com/)
 * [sassme](http://sassme.arc90.com/)
+* [css Should I Prefix](http://shouldiprefix.com/)
 
 
 ### Image compression
