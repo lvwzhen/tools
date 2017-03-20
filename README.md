@@ -26,6 +26,8 @@
 * [bitbug](http://www.bitbug.net/)
 * [iconogen](http://iconogen.com/)
 * [favicomatic](http://www.favicomatic.com/)
+* [RealFaviconGenerator](https://realfavicongenerator.net/)
+* [favicon.io](https://favicon.io/)
 
 ### CDN
 
