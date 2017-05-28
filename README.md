@@ -69,6 +69,7 @@
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 * [Compressor.io](https://compressor.io/)
 * [Shrinkray](https://shrinkray.io)
+* [Trimage](https://trimage.org)
 
 ### JavaScript
 
