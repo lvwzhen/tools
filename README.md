@@ -87,6 +87,9 @@
 * [Webkaka](http://pagespeed.webkaka.com/)
 * [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 
+### Animation
+* [Animatron](https://editor.animatron.com/): Flash-like HTML5 animation tool. No plugin required to play animations! Create mobile-friendly animations, banners, and infographics. It has opensource [player](https://github.com/Animatron/player) for their projects, so you never left stuck to proprietary!
+
 ### Color
 
 * [nipponcolors](http://nipponcolors.com/)
