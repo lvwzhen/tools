@@ -92,13 +92,11 @@
 
 * [nipponcolors](http://nipponcolors.com/)
 * [flatuicolors](http://flatuicolors.com/)
-* [ios7colors](http://ios7colors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
-* [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 * [krmp.cc](https://github.com/dadleyy/krmp.cc)
