@@ -1,6 +1,6 @@
 # Web Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
->An awesome list of hosted tools for web development.
+> An awesome list of hosted tools for web development.
 
 ### Response
 
@@ -45,6 +45,8 @@
 
 ### CSS
 
+* [cstate](https://github.com/cstate/cstate)
+* [Hop on Discord](https://github.com/mistermantas/hop-on-discord)
 * [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
 * [css3lib](http://css3lib.alloyteam.com/)
 * [csszengarden](http://www.csszengarden.com/)
@@ -59,7 +61,6 @@
 * [csssprites](http://csssprites.com/)
 * [sassme](http://sassme.arc90.com/)
 * [css Should I Prefix](http://shouldiprefix.com/)
-
 
 ### Image compression
 
