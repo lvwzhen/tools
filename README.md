@@ -9,6 +9,7 @@
 * [Media Queri](http://mediaqueri.es/)
 * [Screensiz](http://screensiz.es/phone)
 * [Sizzy](http://sizzy.co)
+* [Polypane](http://polypane.rocks)
 
 ### Placeholder
 
