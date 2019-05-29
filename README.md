@@ -119,7 +119,7 @@
 ### API Debugging
 
 * [Hurl.it](https://www.hurl.it/)
-* [requestb.in](http://requestb.in/)
+* [RequestBin.com](https://requestbin.com/)
 * [Beeceptor.com](https://beeceptor.com/)
 
 ### API Doc
