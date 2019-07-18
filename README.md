@@ -72,6 +72,7 @@
 * [Compressor.io](https://compressor.io/)
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
+* [Compress-Or-Die](https://compress-or-die.com/)
 
 ### JavaScript
 
