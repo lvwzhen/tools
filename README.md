@@ -33,6 +33,7 @@
 
 ### CDN
 
+* [pagecdn](https://pagecdn.com/lib)
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://www.bootcdn.cn/)
 * [cdnjs.cn](http://www.cdnjs.cn/)
@@ -106,6 +107,7 @@
 
 ### Font
 
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Google Fonts](https://www.google.com/fonts)
 * [dafont](http://www.dafont.com/)
 * [youziku](http://www.youziku.com/)
