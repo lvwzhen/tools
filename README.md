@@ -143,3 +143,18 @@
 ### webpack
 
 * [Visual webpack config tool](https://webpack.jakoblind.no/)
+
+### Code Playgrounds
+
+[CodePen](https://codepen.io/)
+[CodeSandbox](https://codesandbox.io/)
+[Glitch](https://glitch.com/)
+[JSFiddle](https://jsfiddle.net/)
+[JS BIN](http://jsbin.com/)
+[Dabblet](http://dabblet.com/)
+[CSSDeck](http://cssdeck.com/)
+[Plunker](http://plnkr.co/)
+[Liveweave](https://liveweave.com/)
+[StackBlitz](https://stackblitz.com/)
+[FastSitePHP](https://www.fastsitephp.com/en/playground)
+[DataFormsJS](https://www.dataformsjs.com/en/playground)
