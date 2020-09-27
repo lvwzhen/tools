@@ -98,7 +98,6 @@
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
-* [randomColor](https://randomcolor.llllll.li/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 * [krmp.cc](https://github.com/dadleyy/krmp.cc)
