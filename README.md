@@ -44,6 +44,7 @@
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
+* [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
 
@@ -117,6 +118,7 @@
 * [iconpark](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 
 ### API Debugging
 
