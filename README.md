@@ -33,7 +33,6 @@
 
 ### CDN
 
-* [pagecdn](https://pagecdn.com/lib)
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://www.bootcdn.cn/)
 * [cdnjs.cn](http://www.cdnjs.cn/)
@@ -44,6 +43,7 @@
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
+* [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
 
@@ -107,7 +107,6 @@
 
 ### Font
 
-* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Google Fonts](https://www.google.com/fonts)
 * [dafont](http://www.dafont.com/)
 * [youziku](http://www.youziku.com/)
@@ -118,6 +117,7 @@
 * [iconpark](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 
 ### API Debugging
 
