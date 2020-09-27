@@ -120,7 +120,7 @@
 
 ### API Debugging
 
-* [Hurl.it](https://www.hurl.it/)
+* [ExtendsClass.com](https://extendsclass.com/rest-client-online.html)
 * [RequestBin.com](https://requestbin.com/)
 * [Beeceptor.com](https://beeceptor.com/)
 
