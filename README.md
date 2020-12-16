@@ -44,6 +44,7 @@
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
+* [statically](https://statically.io/)
 * [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
