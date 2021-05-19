@@ -122,6 +122,7 @@
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts)
+* [Respresso](https://respresso.io/)
 
 ### API Debugging
 
