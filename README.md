@@ -122,6 +122,7 @@
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts)
+* [Brick](https://brick.im/)
 
 ### API Debugging
 
