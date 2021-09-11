@@ -124,6 +124,10 @@
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Brick](https://brick.im/)
 
+### Forms
+
+* [Form.taxi](https://form.taxi/)
+
 ### API Debugging
 
 * [ExtendsClass.com](https://extendsclass.com/rest-client-online.html)
