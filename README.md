@@ -167,3 +167,6 @@
 
 ### CheetSheet
 * [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+
+### Tools collection
+* [SmallDev.tools](https://smalldev.tools/)
