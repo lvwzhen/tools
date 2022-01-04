@@ -19,6 +19,7 @@
 * [dummyimage](http://dummyimage.com/)
 * [placekitten](http://placekitten.com/)
 * [unsplash](https://source.unsplash.com/)
+* [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
 
 ### Favicon
 
@@ -85,6 +86,7 @@
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
 
 ### Pagespeed
 
