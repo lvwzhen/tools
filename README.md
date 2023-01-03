@@ -120,6 +120,7 @@
 * [krmp.cc](https://github.com/dadleyy/krmp.cc)
 * [Image Color Picker](https://image-color.com)
 * [Respresso](https://respresso.io/)
+* [Branding Colors](https://branition.com/colors)
 
 ### Font
 
