@@ -97,6 +97,7 @@
 * [jsbin](http://jsbin.com/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
+* [Flatlogic CRUD Apps Generator](https://flatlogic)
 
 ### Pagespeed
 
