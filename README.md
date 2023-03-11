@@ -152,6 +152,7 @@
 
 ### API Doc
 
+* [at-your-service](https://atyourservice.awalsh.io/)
 * [Jquery API](http://www.jquery123.com/)
 * [OverAPI](http://overapi.com/)
 * [devdocs](http://devdocs.io/)
