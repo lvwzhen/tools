@@ -23,7 +23,7 @@
 
 ### Placeholder
 
-* [placehold.it](http://placehold.it/)
+* [placehold.it](https://place-hold.it/)
 * [temp.im](http://temp.im/)
 * [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
