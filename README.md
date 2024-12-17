@@ -188,7 +188,7 @@
 
 ### CheatSheet
 * [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
-*[Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
+* [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
 ### UI Builders
 * [Windframe](https://www.devwares.com/windframe/)
