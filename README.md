@@ -186,8 +186,9 @@
 * [DataFormsJS](https://www.dataformsjs.com/en/playground)
 * [AnyChart Playground](https://playground.anychart.com/)
 
-### CheetSheet
+### CheatSheet
 * [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+* [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
 ### UI Builders
 * [Windframe](https://www.devwares.com/windframe/)
