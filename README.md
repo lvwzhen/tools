@@ -187,4 +187,5 @@
 ### Tools collection
 * [SmallDev.tools](https://smalldev.tools/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
+* [giga.tools](https://giga.tools/)
 
