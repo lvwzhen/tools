@@ -98,6 +98,7 @@
 * [Webkaka](http://pagespeed.webkaka.com/)
 * [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 * [GTmetrix](https://gtmetrix.com/)
+* [PageGuard](https://pageguard.org) - Free all-in-one website health scanner: SEO, performance, accessibility, best practices + AI reports + REST API. No login required.
 
 ### Color
 
