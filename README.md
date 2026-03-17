@@ -187,7 +187,7 @@
 
 ### Tools collection
 * [SmallDev.tools](https://smalldev.tools/)
-* [FreeToolBox](https://www.freetoolbox.site/) - 100% free online tools for PDF, images, JSON, and more — all processed locally in browser, no upload needed
+* [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
 
