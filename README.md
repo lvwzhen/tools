@@ -190,5 +190,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
-* [FastUtil](https://fastutil.app) - 71+ free browser-based developer tools
+* [FastUtil](https://fastutil.app)
 
