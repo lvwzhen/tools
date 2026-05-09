@@ -187,6 +187,7 @@
 
 ### Tools collection
 * [SmallDev.tools](https://smalldev.tools/)
+* [WebToolkit Pro](https://wtkpro.site/) - Professional, privacy-first suite of developer utilities including Pinterest downloader, JSON formatter, and SEO auditors.
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
