@@ -42,6 +42,8 @@
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
 
+* [TinyTools Favicon Generator](https://tinytools-smoky.vercel.app/) - Free in-browser favicon generator (PNG/SVG/ICO). No signup.
+
 ### CDN
 
 * [staticfile](http://www.staticfile.org/)
@@ -191,4 +193,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser utilities: favicon, color palette, OG image, SEO meta tags, domain name generator, AI cost calculator. No signup.
 
