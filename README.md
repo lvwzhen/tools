@@ -191,5 +191,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
-* [DevBox Tools](https://devbox.tools/) - Free browser-based toolbox with 58+ utilities for development, SEO, and daily tasks.
+* [DevBox Tools](https://devbox.tools/)
 
