@@ -81,7 +81,7 @@
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
 * [Compress-Or-Die](https://compress-or-die.com/)
-* [Toogard-image](https://www.toolgarden.xyz/en/image/compress)
+* [Toogarden-image](https://www.toolgarden.xyz/en/image/compress)
 
 ### JavaScript
 
