@@ -192,4 +192,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [Toolbox Kit](https://toolbox-kit.com/)
 
