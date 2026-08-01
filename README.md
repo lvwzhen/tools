@@ -41,6 +41,7 @@
 * [favicomatic](http://www.favicomatic.com/)
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
+* [to-icon](https://toolgarden.xyz/en/image/to-icon)
 
 ### CDN
 
@@ -80,6 +81,7 @@
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
 * [Compress-Or-Die](https://compress-or-die.com/)
+* [Toogarden-image](https://www.toolgarden.xyz/en/image/compress)
 
 ### JavaScript
 
@@ -130,6 +132,7 @@
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Respresso](https://respresso.io/)
 * [Brick](https://brick.im/)
+* [Font Subset](https://www.toolgarden.xyz/en/other/font-subset)
 
 ### Forms
 
@@ -192,4 +195,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [ToolGarden](https://toolgarden.xyz)
 
