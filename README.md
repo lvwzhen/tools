@@ -98,6 +98,7 @@
 * [Webkaka](http://pagespeed.webkaka.com/)
 * [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 * [GTmetrix](https://gtmetrix.com/)
+* [Redirect Checker](https://redirect-checker.autocompany.workers.dev/) - Analyze HTTP redirect chains and measure performance impact
 
 ### Color
 
