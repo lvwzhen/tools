@@ -191,5 +191,5 @@
 * [WebToolkit Pro](https://wtkpro.site/)
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
+* [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Free, no-signup checker for robots.txt, page-level crawler directives, and ChatGPT and Claude crawler access responses.
 * [giga.tools](https://giga.tools/)
-
