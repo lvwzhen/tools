@@ -41,6 +41,7 @@
 * [favicomatic](http://www.favicomatic.com/)
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
+* [Mzu FaviconDL](https://favicondl.com/)
 
 ### CDN
 
@@ -192,4 +193,3 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
-
