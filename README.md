@@ -20,6 +20,7 @@
 * [Screensiz](http://screensiz.es/phone)
 * [Sizzy](http://sizzy.co)
 * [Polypane](http://polypane.rocks)
+* [Responsive Tool](https://responsivetool.com)
 
 ### Placeholder
 
