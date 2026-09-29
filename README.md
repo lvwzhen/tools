@@ -80,6 +80,7 @@
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
 * [Compress-Or-Die](https://compress-or-die.com/)
+* [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 
 ### JavaScript
 
