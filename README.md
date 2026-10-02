@@ -192,4 +192,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [Nutilz](https://nutilz.com/) - 23 free browser-based developer utilities: regex tester, JSON formatter, unit converter, calculators, and more.
 
