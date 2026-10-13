@@ -81,6 +81,7 @@
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
 * [Compress-Or-Die](https://compress-or-die.com/)
+* [BulkPicTools](https://bulkpictools.com/)
 
 ### JavaScript
 
