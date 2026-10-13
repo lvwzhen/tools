@@ -42,6 +42,8 @@
 * [favicomatic](http://www.favicomatic.com/)
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
+* [Toolio.it - Favicon generator](https://toolio.it/genera-favicon/) - Free favicon generator, converts an image into all standard favicon sizes.
+* [Mzu FaviconDL](https://favicondl.com/)
 
 ### CDN
 
@@ -82,6 +84,7 @@
 * [Trimage](https://trimage.org)
 * [Compress-Or-Die](https://compress-or-die.com/)
 * [BulkPicTools](https://bulkpictools.com/)
+* [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 
 ### JavaScript
 
@@ -196,4 +199,12 @@
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
 * [Facecam free tools](https://www.facecam.ai/tools) - Free browser webcam test, mic test, soundboard and voice changer, no sign-up.
+* [IPCalcPlus](https://ipcalcplus.com/)
+* [Toolio.it](https://toolio.it/) - Free hub of 155+ Italian web tools: calculators, unit/file converters, QR code and password generators, text utilities — no sign-up, mostly client-side.
+* [JieBang Tools](https://www.jiebang.site/) - 170+ free online tools for developers — JSON formatter, Base64 encoder, QR code generator, and more. All client-side, no signup required.
+* [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Free, no-signup checker for robots.txt, page-level crawler directives, and ChatGPT and Claude crawler access responses.
+* [SheetRender](https://sheetrender.com/tools) - Free browser-based PDF tools to merge and split PDFs, extract pages, and split mail merge PDFs.
+* [DevBox Tools](https://devbox.tools/)
+* [Mello](https://mello.tools/)
+* [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
 
