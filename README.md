@@ -14,8 +14,6 @@
 
 ### Response
 
-* [Responsinator](http://www.responsinator.com/)
-* [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Media Queri](http://mediaqueri.es/)
 * [Screensiz](http://screensiz.es/phone)
 * [Sizzy](http://sizzy.co)
@@ -25,13 +23,8 @@
 
 ### Placeholder
 
-* [placehold.it](https://place-hold.it/)
 * [temp.im](http://temp.im/)
-* [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
-* [placekitten](http://placekitten.com/)
-* [unsplash](https://source.unsplash.com/)
-* [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
 
 ### Favicon
 
@@ -50,16 +43,11 @@
 
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://www.bootcdn.cn/)
-* [cdnjs.cn](http://www.cdnjs.cn/)
 * [cdnjs](https://cdnjs.com/)
 * [upai](http://jscdn.upai.com/)
-* [Baidu cdn](http://cdn.code.baidu.com/)
-* [360 cdn](http://libs.useso.com/)
 * [jquery cdn](http://code.jquery.com/)
-* [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
 * [statically](https://statically.io/)
-* [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
 
@@ -70,7 +58,6 @@
 * [cssBeutify](http://tool.lu/css/)
 * [css spritegen](http://spritegen.website-performance.org/)
 * [csssprites](http://csssprites.com/)
-* [sassme](http://sassme.arc90.com/)
 * [css Should I Prefix](http://shouldiprefix.com/)
 * [CSS Unit Converter](https://cssunitconverter.com/)
 
@@ -93,16 +80,13 @@
 * [jsbeautifier](http://jsbeautifier.org/)
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
-* [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
-* [Flatlogic CRUD Apps Generator](https://flatlogic)
+* [Flatlogic CRUD Apps Generator](https://flatlogic.com/generator)
 * [dhtmlx javascript components](https://dhtmlx.com/docs/products/)
 
 ### Pagespeed
 
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
-* [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
-* [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 * [GTmetrix](https://gtmetrix.com/)
 * [Redirect Checker](https://redirect-checker.autocompany.workers.dev/) - Analyze HTTP redirect chains and measure performance impact
 
@@ -119,11 +103,10 @@
 * [krmp.cc](https://github.com/dadleyy/krmp.cc)
 * [Image Color Picker](https://image-color.com)
 * [Respresso](https://respresso.io/)
-* [Branding Colors](https://branition.com/colors)
 
 ### Font
 
-* [Google Fonts](https://www.google.com/fonts)
+* [Google Fonts](https://fonts.google.com/)
 * [Adobe Fonts](https://fonts.adobe.com/)
 * [dafont](http://www.dafont.com/)
 * [youziku](http://www.youziku.com/)
@@ -133,8 +116,6 @@
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
-* [Fontface Ninja](http://fontface.ninja/)
-* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Respresso](https://respresso.io/)
 * [Brick](https://brick.im/)
 
@@ -162,7 +143,6 @@
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 * [GitLab](https://about.gitlab.com/)
-* [GitCafe](https://gitcafe.com/)
 * [Git@OSC](http://git.oschina.net/)
 
 ### webpack
@@ -173,7 +153,6 @@
 
 * [CodePen](https://codepen.io/)
 * [CodeSandbox](https://codesandbox.io/)
-* [Glitch](https://glitch.com/)
 * [JSFiddle](https://jsfiddle.net/)
 * [JS BIN](http://jsbin.com/)
 * [Dabblet](http://dabblet.com/)
@@ -193,8 +172,7 @@
 * [Windframe](https://www.devwares.com/windframe/)
 
 ### Tools collection
-* [SmallDev.tools](https://smalldev.tools/)
-* * [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
+* [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 * [WebToolkit Pro](https://wtkpro.site/)
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
