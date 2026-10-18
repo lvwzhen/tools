@@ -186,4 +186,5 @@
 * [DevBox Tools](https://devbox.tools/)
 * [Mello](https://mello.tools/)
 * [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
+* [MiniToolDesk](https://minitooldesk.com) - 100% client-side private developer toolbox with zero ads, native Web Crypto, AI prompt data sanitizer, and code generation matrix.
 
