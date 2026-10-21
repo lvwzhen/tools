@@ -156,7 +156,7 @@
 * [JSFiddle](https://jsfiddle.net/)
 * [JS BIN](http://jsbin.com/)
 * [Dabblet](http://dabblet.com/)
-* [CSSDeck](http://cssdeck.com/)
+* [Coddy](https://coddy.tech/playground/html)
 * [Plunker](http://plnkr.co/)
 * [Liveweave](https://liveweave.com/)
 * [StackBlitz](https://stackblitz.com/)
