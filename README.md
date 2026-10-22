@@ -73,6 +73,7 @@
 * [Compress-Or-Die](https://compress-or-die.com/)
 * [BulkPicTools](https://bulkpictools.com/)
 * [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
+* [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
 
 ### JavaScript
 
