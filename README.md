@@ -189,4 +189,5 @@
 * [Mello](https://mello.tools/)
 * [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
 * [MiniToolDesk](https://minitooldesk.com) - 100% client-side private developer toolbox with zero ads, native Web Crypto, AI prompt data sanitizer, and code generation matrix.
+* [Benchvale Base64](https://benchvale.com/dev/base64) - Base64 encoder and decoder that runs in the browser, accepts the standard and URL-safe alphabets, re-adds missing padding, and ignores line breaks.
 
