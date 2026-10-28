@@ -64,6 +64,7 @@
 
 ### Image compression
 
+* [ImgFlow](https://imgflow.taoliapp.com/en/) - Compress and convert images (PNG/JPG/HEIC/WebP/AVIF) in the browser; core processing stays on-device
 * [webresizer](http://webresizer.com/resizer/)
 * [TinyPNG](https://tinypng.com)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
