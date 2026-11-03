@@ -20,6 +20,7 @@
 * [Polypane](http://polypane.rocks)
 * [Responsive Tool](https://responsivetool.com)
 * [CurlShot Mobile Screenshot](https://curlshot.com/tools/mobile-screenshot) - Screenshot any page as it renders on a phone or tablet (screen size, pixel density, mobile user agent), no account needed.
+* [AppShot](https://arnavjhajharia.github.io/appshot/) - Free in-browser App Store & Google Play screenshot maker (device frames, captions, exact required store sizes). Nothing uploaded.
 
 ### Placeholder
 
