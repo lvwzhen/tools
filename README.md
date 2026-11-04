@@ -38,6 +38,7 @@
 * [favicon.io](https://favicon.io/)
 * [Toolio.it - Favicon generator](https://toolio.it/genera-favicon/) - Free favicon generator, converts an image into all standard favicon sizes.
 * [Mzu FaviconDL](https://favicondl.com/)
+* [Favikit](https://arnavjhajharia.github.io/favikit/) - Private in-browser favicon & app-icon generator (real multi-size .ico, Apple touch, Android, web manifest). Nothing uploaded.
 
 ### CDN
 
