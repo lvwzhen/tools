@@ -199,3 +199,4 @@
 * [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.
 * [All Tools Verse](https://alltoolsverse.com/) - Free collection of browser-based utilities for formatting, encoding, conversion and API work. No sign-up.
 * [DevToolbox](https://dev-toolbox.io/) - 30 free developer tools: JSON formatter and diff, regex tester, JWT decoder, Base64, hashing, cron parser, YAML and CSV converters. Everything runs client-side, no sign-up.
+* [OnlineMiniTools](https://onlineminitools.com) - 2,400+ free browser-based tools for text, code, images, PDFs, crypto and networking. Most run client-side, no sign-up.
