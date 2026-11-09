@@ -87,6 +87,7 @@
 * [jsbin](http://jsbin.com/)
 * [Flatlogic CRUD Apps Generator](https://flatlogic.com/generator)
 * [dhtmlx javascript components](https://dhtmlx.com/docs/products/)
+* [Static AI Block](https://aiblock.onetagai.com/) - Copy-paste AI blocks for static sites: ask this page, summarize, translate, FAQ bot. Plain HTML and JavaScript, one script tag.
 
 ### Pagespeed
 
