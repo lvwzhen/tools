@@ -191,6 +191,7 @@
 * [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Free, no-signup checker for robots.txt, page-level crawler directives, and ChatGPT and Claude crawler access responses.
 * [ogkit](https://arnavjhajharia.github.io/ogkit/) - Free in-browser Open Graph / social card generator (1200×630, meta-tag snippet). Nothing uploaded.
 * [SheetRender](https://sheetrender.com/tools) - Free browser-based PDF tools to merge and split PDFs, extract pages, and split mail merge PDFs.
+* [Mdpresso](https://mdpresso.com/) - Split PDFs into custom page ranges or single pages, or extract and remove pages locally in the browser.
 * [DevBox Tools](https://devbox.tools/)
 * [Mello](https://mello.tools/)
 * [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
