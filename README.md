@@ -87,6 +87,7 @@
 * [jsbin](http://jsbin.com/)
 * [Flatlogic CRUD Apps Generator](https://flatlogic.com/generator)
 * [dhtmlx javascript components](https://dhtmlx.com/docs/products/)
+* [icodelab Formatter](https://icodelab.dev/en/tools/format-minify) - Free in-browser formatter, minifier and validator for JSON, JS, CSS, HTML, XML, PHP, YAML and Markdown (Prettier under the hood). No sign-up, nothing sent to a server.
 
 ### Pagespeed
 
