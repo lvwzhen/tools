@@ -78,7 +78,7 @@
 * [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 * [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
 * [JFIF to JPG](https://jfiftojpg.app/) - Free JFIF to JPG/PNG converter that runs 100% in the browser, no uploads, no re-compression
-* [zippic](https://zippic.app/) - Free image, video, and document tools that run in the browser; compress and convert images (PNG/JPG/HEIC/WebP/AVIF), no signup, nothing uploaded. 
+* [zippic](https://zippic.app/) - Free image, video and document tools that run in the browser; compress and convert images (PNG/JPG/HEIC/WebP/AVIF), no signup, nothing uploaded. 
 
 ### JavaScript
 
