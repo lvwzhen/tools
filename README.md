@@ -176,6 +176,7 @@
 ### UI Builders
 * [Windframe](https://www.devwares.com/windframe/)
 * [Particle Logo](https://particlelogo.com) - Turn a logo into a particle animation in the browser, then export dependency-free HTML, Vue 3 and React components, or video and GIF.
+* [Kite](https://kite.new) - Design tool your AI agents and your team share: Claude, ChatGPT, Cursor or Codex draw real, editable layers (frames, components, auto layout) through a hosted MCP server, and any frame copies out as HTML, React or Tailwind. Free plan.
 
 ### Tools collection
 * [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
