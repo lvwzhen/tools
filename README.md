@@ -78,6 +78,7 @@
 * [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 * [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
 * [JFIF to JPG](https://jfiftojpg.app/) - Free JFIF to JPG/PNG converter that runs 100% in the browser, no uploads, no re-compression
+* [TinyMast](https://tinymast.com/image-compress/) - Compress and resize images and PDFs online to a target size such as 20, 50 or 100 KB; uploaded files and results are deleted within 24 hours
 
 ### JavaScript
 
